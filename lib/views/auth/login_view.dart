@@ -113,7 +113,7 @@ class _LoginViewState extends ConsumerState<LoginView> {
                   ),
                   validator: (value) {
                     if (value == null || value.isEmpty) {
-                      return 'Please enter your password';
+                      return 'Please enter password';
                     }
 
                     if (value.length < 6) {
