@@ -36,7 +36,6 @@ class _LoginViewState extends ConsumerState<LoginView> {
         .login(_emailController.text.trim(), _passwordController.text);
 
     if (!mounted) return;
-
     final state = ref.read(authViewModelProvider);
 
     // AsyncNotifier keeps the previous value on error, so hasValue can
