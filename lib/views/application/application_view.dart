@@ -108,7 +108,7 @@ class _JobApplicationCard extends ConsumerWidget {
                 if (context.mounted) {
                   ScaffoldMessenger.of(context).showSnackBar(
                     const SnackBar(
-                      content: Text('Application deleted'),
+                      content: Text('Application deleted Successfully'),
                     ),
                   );
                 }
