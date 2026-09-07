@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "665729008040",
+    "project_id": "job-application-tracker-147e9",
+    "storage_bucket": "job-application-tracker-147e9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665729008040:android:364dc74cf30376cdb39d9d",
+        "android_client_info": {
+          "package_name": "com.example.new_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAO9vcpGCNuEAazd9axAS5Mpjremuk8xCE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
