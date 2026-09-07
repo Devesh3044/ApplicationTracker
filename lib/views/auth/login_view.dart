@@ -4,8 +4,6 @@ import 'package:new_app/views/application/application_view.dart';
 import 'package:new_app/views/auth/register_view.dart';
 
 import '../../providers/auth_provider.dart';
-import '../add_application/add_application.dart';
-
 class LoginView extends ConsumerStatefulWidget {
   const LoginView({super.key});
 
